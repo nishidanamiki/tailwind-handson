@@ -15,6 +15,10 @@ module.exports = {
           DEFAULT: "#10B981",
           dark: "#047857",
         },
+        brand: {
+          primary: "#F05340", //Laravel red
+          secondary: "#6c757d", //Gray
+        },
       },
       fontFamily: {
         sans: ["Inter var", ...defaultTheme.fontFamily.sans],
